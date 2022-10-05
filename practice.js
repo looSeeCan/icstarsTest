@@ -1,5 +1,5 @@
 ///CONSOLE
-/// this is a test from looSeeCan2
+/// this is a test from looSeeCan
 console.log("CONSOLE")
 
 console.log(42);
